@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/alain/lesson4/build/cmake_install.cmake",
+		"/Users/alain/lesson4/build/src/cmake_install.cmake",
+		"/Users/alain/lesson4/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

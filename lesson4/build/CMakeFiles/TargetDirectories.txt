@@ -1,0 +1,12 @@
+/Users/alain/lesson4/build/CMakeFiles/test.dir
+/Users/alain/lesson4/build/CMakeFiles/edit_cache.dir
+/Users/alain/lesson4/build/CMakeFiles/rebuild_cache.dir
+/Users/alain/lesson4/build/src/CMakeFiles/name_length.dir
+/Users/alain/lesson4/build/src/CMakeFiles/main.dir
+/Users/alain/lesson4/build/src/CMakeFiles/test.dir
+/Users/alain/lesson4/build/src/CMakeFiles/edit_cache.dir
+/Users/alain/lesson4/build/src/CMakeFiles/rebuild_cache.dir
+/Users/alain/lesson4/build/tests/CMakeFiles/test_name_length.dir
+/Users/alain/lesson4/build/tests/CMakeFiles/test.dir
+/Users/alain/lesson4/build/tests/CMakeFiles/edit_cache.dir
+/Users/alain/lesson4/build/tests/CMakeFiles/rebuild_cache.dir

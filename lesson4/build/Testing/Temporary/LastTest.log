@@ -1,0 +1,25 @@
+Start testing: Sep 23 18:44 CEST
+----------------------------------------------------------
+1/1 Testing: test_name_length
+1/1 Test: test_name_length
+Command: "/Users/alain/lesson4/build/tests/test_name_length"
+Directory: /Users/alain/lesson4/build/tests
+"test_name_length" start time: Sep 23 18:44 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 2 test cases.
+[ RUN      ] name_length.basic_tests
+[       OK ] name_length.basic_tests (250ns)
+[ RUN      ] name_length.advanced_tests
+[       OK ] name_length.advanced_tests (541ns)
+[==========] 2 test cases ran.
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"test_name_length" end time: Sep 23 18:44 CEST
+"test_name_length" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 23 18:44 CEST

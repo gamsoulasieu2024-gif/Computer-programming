@@ -1,0 +1,2 @@
+/usr/bin/ar qc libname_length.a CMakeFiles/name_length.dir/name_length.c.o
+/usr/bin/ranlib libname_length.a
